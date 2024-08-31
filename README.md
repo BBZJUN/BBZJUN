@@ -1,6 +1,6 @@
 ### 안녕하세요 강재준입니다.👋
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbzjun)](https://solved.ac/bbzjun)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=BBZJUN)](https://solved.ac/BBZJUN)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshinplest)](https://hits.seeyoufarm.com)
 <!--
