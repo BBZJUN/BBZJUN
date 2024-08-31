@@ -1,6 +1,5 @@
 ### 안녕하세요 강재준입니다.👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BBZJUN&show_icons=true&theme=radical)
 
 <!-- -->
 [![github stats](https://github-readme-stats.vercel.app/api?username=bbzjun&show_icons=true&hide_border=true)](https://github.com/bbzjun) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbzjun&layout=compact)](https://github.com/bbzjun)
