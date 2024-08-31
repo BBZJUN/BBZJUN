@@ -6,7 +6,7 @@
 <!-- -->
 [![github stats](https://github-readme-stats.vercel.app/api?username=bbzjun&show_icons=true&hide_border=true)](https://github.com/bbzjun) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbzjun&layout=compact)](https://github.com/bbzjun)
 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=BBZJUN}&theme=cold)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=BBZJUN&theme=cold)
 <img src="http://mazandi.herokuapp.com/api?handle=BBZJUN&theme=cold"/>
 
 <!--
