@@ -6,7 +6,7 @@
 
 <!-- 백준 티어 연결 + 백준 잔디연결 -->
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=BBZJUN)](https://solved.ac/BBZJUN)    ![mazandi profile](http://mazandi.herokuapp.com/api?handle=BBZJUN&theme=cold)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=BBZJUN)](https://solved.ac/BBZJUN)
 
 <!--
 **bbzjun/bbzjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
