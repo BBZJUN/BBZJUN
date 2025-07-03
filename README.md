@@ -1,6 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20BBZJUN's%20GitHub%20😊%20&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=70&height=250)
 
+## 🏃‍♂️ 활동
 
+## 🎖️ 수상
+
+## 👩🏽‍💻 프로젝트
+
+---
+## 💻 Tech Stack
+- **Frontend**: React, TypeScript, Next.js, Tailwind CSS  
+- **Backend**: Spring Boot, Flask, MySQL  
+- **AI/NLP**: OpenAI API, LangChain, FAISS, GPT-4  
+- **Infra & DevOps**: AWS EC2, S3, RDS, GitHub Actions, Docker  
+- **Tools**: Figma, Notion, Postman, Jira, Swagger
+
+![Tech Stack Icons](https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,java,spring,python,flask,mysql,docker,aws)
+---
 <!-- -->
 [![github stats](https://github-readme-stats.vercel.app/api?username=bbzjun&show_icons=true&hide_border=true)](https://github.com/bbzjun) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbzjun&layout=compact)](https://github.com/bbzjun)
 
