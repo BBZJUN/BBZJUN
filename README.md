@@ -1,6 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20BBZJUN's%20GitHub%20😊%20&animation=twinkling&fontSize=30&fontAlignY=40&fontAlign=70&height=250)
 
 ## 🏃‍♂️ 활동
+- 🎓 **세종대학교 컴퓨터공학과** (2019.03 ~ 2026.02)  
+  졸업 예정 / 학점 **4.05 / 4.5**  
+
+- 🟠 **구름톤 유니브** – kakao x 9oorm (2025.02.23 ~ 2025.11.30)  
+  세종대학교 대표로 전국 IT 연합 동아리 활동  
+
+- 🟣 **Digital Hana 路** – 하나은행 (2024.08.05 ~ 2025.02.13)  
+  금융서비스 개발(Full Stack) **우수 수료**  
+
+- 🔵 **하나드림 아카데미** – 하나증권 (2024.03.04 ~ 2024.07.31)  
+  대학생 금융 아카데미 수료  
+
+- 🔐 **화이트햇 스쿨** – 한국정보기술연구원 KITRI (2023.09.01 ~ 2024.03.22)  
+  차세대 보안 리더 양성 교육 수료  
 
 ## 🎖️ 수상
 - 🏆 **2024 제17회 창의설계경진대회 우수상** – 세종대학교 (2024.06.14)  
