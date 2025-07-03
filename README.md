@@ -24,9 +24,9 @@
 
 
 ## 👩🏽‍💻 프로젝트
-- [AI, UI/UX] 근로자를 위한 산업재해 AI 서비스, Todak (2025.03.15 ~ 2025.05.15)
-- [FE, UI/UX] 소득 크레바스에 맞닥뜨린 당신을 구해줄 든든한 동반자, LIFE on HANA (2025.01.08 ~ 2025.02.06)
-- [FE, BE] VIP 손님을 위한 180° 달라진 Private Banker 상담 서비스, dIA (2024.10.14 ~ 2024.12.30)
+- **[AI, UI/UX] 근로자를 위한 산업재해 AI 서비스, Todak** - 고용노동 공공데이터 공모전 (2025.03.15 ~ 2025.05.15)
+- **[FE, UI/UX] 소득 크레바스에 맞닥뜨린 당신을 구해줄 든든한 동반자, LIFE on HANA** - Digital Hana 路 (2025.01.08 ~ 2025.02.06)
+- **[FE, BE] VIP 손님을 위한 180° 달라진 Private Banker 상담 서비스, dIA** - Digital Hana 路 (2024.10.14 ~ 2024.12.30)
 
 
 ## 📜 자격증
@@ -37,14 +37,39 @@
 
 
 ## 💻 Tech Stack
-- **Frontend**: React, TypeScript, Next.js, Tailwind CSS  
-- **Backend**: Java, Spring Boot, Flask, MySQL  
-- **AI/NLP**: OpenAI API, LangChain, FAISS
-- **Infra & DevOps**: AWS EC2, GitHub Actions 
-- **Tools**: Figma, Photoshop, GitHub, Notion, Postman, Jira, Swagger, Storybook
+
+### 🧑‍🎨 Frontend
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+
+
+### 🛠️ Backend
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+### ☁️ Infra & DevOps
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+
+### 🧰 Tools
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785.svg?style=for-the-badge&logo=storybook&logoColor=white)
+
 
 ---
-
 <!-- -->
 [![github stats](https://github-readme-stats.vercel.app/api?username=bbzjun&show_icons=true&hide_border=true)](https://github.com/bbzjun) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbzjun&layout=compact)](https://github.com/bbzjun)
 
