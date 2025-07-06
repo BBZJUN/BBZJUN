@@ -27,6 +27,7 @@
 - **[[AI, UI/UX] 근로자를 위한 산업재해 AI 서비스, Todak](https://github.com/Todak-todak-todak)** - 고용노동 공공데이터 공모전 (2025.03.15 ~ 2025.05.15) 
 - **[[FE, UI/UX] 소득 크레바스에 맞닥뜨린 당신을 구해줄 든든한 동반자, LIFE on HANA](https://github.com/Hanaro-JSON)** - 하나은행, Digital Hana 路 (2025.01.08 ~ 2025.02.06)
 - **[[FE, BE] VIP 손님을 위한 180° 달라진 Private Banker 상담 서비스, dIA](https://github.com/hanaro4-dIA)** - 하나은행, Digital Hana 路 (2024.10.14 ~ 2024.12.30)
+- **[[FE,UI/UX] 실시간 서울시 지하철 지연 예측 서비스,  SUB PICK]** - 세종대학교 (2024.03.04 ~ 2024.06.14)
 - **[Research, Security] 금융권 합성데이터 성능 검증 가이드라인** - 한국정보기술연구원, 화이트햇 스쿨 (2023.10.30 ~ 2024.01.06)
 
 
@@ -44,7 +45,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 
 ### 🛠️ Backend
