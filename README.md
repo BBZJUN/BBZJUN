@@ -28,7 +28,7 @@
 
 
 ## 👩🏽‍💻 프로젝트
-- **[[AI, UI/UX] 근로자를 위한 산업재해 AI 서비스, Todak](https://github.com/Todak-todak-todak)** - 고용노동 공공데이터 공모전 (2025.03.15 ~ 2025.05.15) 
+- **[[AI, UI/UX] 근로자를 위한 산업재해 AI 서비스, Todak](https://github.com/Todak-todak-todak)** - 제4회 고용노동 공공데이터 활용 공모전 (2025.03.15 ~ 2025.05.15) 
 - **[[FE, UI/UX] 소득 크레바스에 맞닥뜨린 당신을 구해줄 든든한 동반자, LIFE on HANA](https://github.com/Hanaro-JSON)** - 하나은행, Digital Hana 路 (2025.01.08 ~ 2025.02.06)
 - **[[FE, BE] VIP 손님을 위한 180° 달라진 Private Banker 상담 서비스, dIA](https://github.com/hanaro4-dIA)** - 하나은행, Digital Hana 路 (2024.10.14 ~ 2024.12.30)
 - **[[FE, UI/UX] 실시간 서울시 지하철 지연 예측 서비스,  SUB PICK]** - 세종대학교 (2024.03.04 ~ 2024.06.14)
